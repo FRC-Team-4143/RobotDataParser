@@ -1,5 +1,4 @@
 import csv
-import pprint
 import numpy
 
 newData = []
